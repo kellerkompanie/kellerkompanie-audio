@@ -1,0 +1,14 @@
+name = "Kellerkompanie";
+picture = "logo_keko_ca.paa";
+actionName = "Website";
+action = "http://kellerkompanie.com/";
+description = "Sammlung an Mods aus der Kellerkompanie";
+logo = "logo_keko_ca.paa";
+logoOver = "logo_keko_ca.paa";
+tooltip = "Kellerkompanie";
+tooltipOwned = "Kellerkompanie";
+overview = "Sammlung einiger Mods, die bei der Kellerkompanie benutzt werden.";
+author = "Kellerkompanie";
+overviewPicture = "logo_keko_ca.paa";
+overviewText = "Kellerkompanie overviewText";
+overviewFootnote = "Inhalte gehören nicht uns, sondern den jeweiligen Autoren.";
