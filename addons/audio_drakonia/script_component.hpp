@@ -1,6 +1,6 @@
 #define COMPONENT audio_drakonia
 #define COMPONENT_BEAUTIFIED Audio Drakonia
-#include "\x\keko\addons\main\script_mod.hpp"
+#include "\x\keko_audio\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -14,4 +14,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_AUDIO_DRAKONIA
 #endif
 
-#include "\x\keko\addons\main\script_macros.hpp"
+#include "\x\keko_audio\addons\main\script_macros.hpp"
