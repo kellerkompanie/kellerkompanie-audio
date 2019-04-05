@@ -13,7 +13,7 @@ import winreg
 
 ######## GLOBALS #########
 MAINDIR = "x"
-PROJECTDIR = "keko"
+PROJECTDIR = "keko_audio"
 ##########################
 
 def main():
@@ -24,18 +24,18 @@ def main():
   #####################################
 
   This script will create your KEKO dev environment for you.
-  
+
   Before you run this, you should already have:
     - The Arma 3 Tools installed properly via Steam
     - A properly set up P-drive
-  
+
   If you have not done those things yet, please abort this script in the next step and do so first.
-  
+
   This script will create two hard links on your system, both pointing to your KEKO project folder:
     [Arma 3 installation directory]\\{} => KEKO project folder
     P:\\{}                              => KEKO project folder
     """.format(FULLDIR,FULLDIR))
-    print("\n") 
+    print("\n")
 
     try:
         reg = winreg.ConnectRegistry(None, winreg.HKEY_LOCAL_MACHINE)

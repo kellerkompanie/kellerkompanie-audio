@@ -58,7 +58,7 @@ if sys.platform == "win32":
     import winreg
 
 ######## GLOBALS #########
-project = "@keko"
+project = "@keko_audio"
 project_version = "1.0.0"
 arma3tools_path = ""
 work_drive = ""
@@ -67,11 +67,11 @@ make_root = ""
 release_dir = ""
 module_root_parent = ""
 optionals_root = ""
-key_name = "keko"
+key_name = "keko_audio"
 key = ""
 dssignfile = ""
-prefix = "keko"
-pbo_name_prefix = "keko_"
+prefix = "keko_audio"
+pbo_name_prefix = "keko_audio_"
 signature_blacklist = []
 #importantFiles = ["mod.cpp", "meta.cpp", "README.md", "LICENSE.md", "logo_cba_ca.paa"]
 importantFiles = ["mod.cpp", "logo_keko_ca.paa"]
