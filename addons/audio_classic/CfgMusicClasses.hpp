@@ -1,5 +1,5 @@
 class CfgMusicClasses {
 	class EGVAR(audio,classic) {
-		displayName = "Klassik";
+		displayName = "Kellerkompanie Klassik";
 	};
 };

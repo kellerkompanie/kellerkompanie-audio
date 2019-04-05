@@ -1,5 +1,5 @@
 class CfgMusicClasses {
 	class EGVAR(audio,vietnam) {
-		displayName = "Vietnam";
+		displayName = "Kellerkompanie Vietnam";
 	};
 };

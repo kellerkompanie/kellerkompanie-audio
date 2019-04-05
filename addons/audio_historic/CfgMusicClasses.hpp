@@ -1,8 +1,8 @@
 class CfgMusicClasses {
 	class EGVAR(audio,historic) {
-		displayName = "Historisch";
+		displayName = "Kellerkompanie Historisch";
 	};
 	class EGVAR(audio,rac) {
-		displayName = "Red Army Choir";
+		displayName = "Kellerkompanie Red Army Choir";
 	};
 };

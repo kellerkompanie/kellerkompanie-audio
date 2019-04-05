@@ -1,5 +1,5 @@
 class CfgMusicClasses {
 	class EGVAR(audio,misc)	{
-		displayName = "Random Musik";
+		displayName = "Kellerkompanie Random";
 	};
 };

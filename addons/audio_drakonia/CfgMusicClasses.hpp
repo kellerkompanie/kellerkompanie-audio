@@ -1,5 +1,5 @@
 class CfgMusicClasses {
 	class EGVAR(audio,drakonia) {
-		displayName = "Drakonia";
+		displayName = "Kellerkompanie Drakonia";
 	};
 };
