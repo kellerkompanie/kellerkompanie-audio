@@ -1,5 +1,5 @@
 class CfgMusicClasses {
-	class GVAR(horror) {
-		displayName = "Kellerkompanie Horror";
-	};
+    class GVAR(horror) {
+        displayName = "Kellerkompanie Horror";
+    };
 };
