@@ -198,8 +198,8 @@ class CfgMusic {
         musicClass = EGVAR(audio,dayz);
     };
 
-    class GVAR(Nick_Fox_-_Innocence_Died_Screaming) {
-        name = "DayZ - Nick Fox - Innocence Died Screaming";
+    class GVAR(Nick_Fox_Innocence_Died_Screaming) {
+        name = "DayZ - Nick_Fox_Innocence_Died_Screaming";
         sound[] = {QPATHTOF(dayz\Nick_Fox_-_Innocence_Died_Screaming.ogg),1,1};
         theme = "Score";
         duration = "176";
@@ -249,8 +249,8 @@ class CfgMusic {
         musicClass = EGVAR(audio,dayz);
     };
 
-    class GVAR(Simon_Wilkinson_-_13_Days_Of_Nightmares) {
-        name = "DayZ - Simon_Wilkinson_-_13_Days_Of_Nightmares";
+    class GVAR(Simon_Wilkinson_13_Days_Of_Nightmares) {
+        name = "DayZ - Simon_Wilkinson_13_Days_Of_Nightmares";
         sound[] = {QPATHTOF(dayz\Simon_Wilkinson_-_13_Days_Of_Nightmares.ogg),1,1};
         theme = "Score";
         duration = "106";
