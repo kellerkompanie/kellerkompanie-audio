@@ -73,3 +73,6 @@ Thumbs.db
 CHANGELOG.md
 
 hemtt.exe
+releases/*
+keys/*
+.hemtt/local

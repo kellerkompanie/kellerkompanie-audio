@@ -4,7 +4,6 @@ author = "Schwaggot"
 mainprefix = "x"
 files = [
     "mod.cpp",
-    "LICENSE",
     "README.md",
     "logo_keko_ca.paa"
 ]
