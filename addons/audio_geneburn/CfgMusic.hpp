@@ -34,6 +34,13 @@ class CfgMusic {
         duration = "227";
         musicClass = EGVAR(audio,geneburn);
     };
+    class GVAR(echoes) {
+        name = "Geneburn - Echoes";
+        sound[] = {QPATHTOF(geneburn\echoes.ogg),1,1};
+        theme = "Score";
+        duration = "233";
+        musicClass = EGVAR(audio,geneburn);
+    };
     class GVAR(edge_of_darkness) {
         name = "Geneburn - Edge of Darkness";
         sound[] = {QPATHTOF(geneburn\edge-of-darkness.ogg),1,1};
@@ -62,6 +69,13 @@ class CfgMusic {
         duration = "214";
         musicClass = EGVAR(audio,geneburn);
     };
+    class GVAR(intermezzo) {
+        name = "Geneburn - Intermezzo";
+        sound[] = {QPATHTOF(geneburn\intermezzo.ogg),1,1};
+        theme = "Score";
+        duration = "339";
+        musicClass = EGVAR(audio,geneburn);
+    };
     class GVAR(left_behind) {
         name = "Geneburn - Left Behind";
         sound[] = {QPATHTOF(geneburn\left-behind.ogg),1,1};
@@ -74,6 +88,13 @@ class CfgMusic {
         sound[] = {QPATHTOF(geneburn\prepare-for-escape.ogg),1,1};
         theme = "Score";
         duration = "325";
+        musicClass = EGVAR(audio,geneburn);
+    };
+    class GVAR(rules_of_engagement) {
+        name = "Geneburn - Rules of Engagement";
+        sound[] = {QPATHTOF(geneburn\rules-of-engagement.ogg),1,1};
+        theme = "Score";
+        duration = "234";
         musicClass = EGVAR(audio,geneburn);
     };
     class GVAR(scattle_rgb) {
